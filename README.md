@@ -13,3 +13,6 @@ This is a modified fork of (https://github.com/saada/docker-compose-php-mysql)
 2. run `npm install -g grunt-cli` to install grunt
 1. run `npm install` to use grunt in your project
 2. run `grunt watch` to compile SASS on the fly
+
+## Stop the Environment
+1. execute `docker-compose kill`

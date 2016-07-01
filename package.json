@@ -19,12 +19,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/saschadiercks/metafolio-de.git"
+    "url": "git+https://github.com/saschadiercks/dockerBox.git"
   },
   "author": "Sascha Diercks",
   "license": "ISC",
-  "bugs": {
-    "url": "https://bitbucket.org/saschadiercks/metafolio-de/issues"
-  },
-  "homepage": "https://bitbucket.org/saschadiercks/metafolio-de#readme"
+
+  "homepage": "https://github.com/saschadiercks/dockerBox#readme"
 }
